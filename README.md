@@ -1,5 +1,5 @@
 # react-setup
-Basic boilerplate for React 
+Basic boilerplate for React-Redux 
 
 Step 1: Install Latest version of Node and NPM in your machine. I have used Node v6.11.0 and Npm v3.10.10.
 Step 2: Create folder for project in your machine.
